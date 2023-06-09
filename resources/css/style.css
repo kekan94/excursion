@@ -1,0 +1,21 @@
+html {
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+    background-color: black;
+}
+
+header, #main {
+    text-align: center;
+}
+
+/*Header*/
+
+header h1 {
+    color: white;
+    font-size: 3.125rem;
+}
+
+header a {
+    color: aquamarine;
+
+}
