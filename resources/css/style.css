@@ -8,14 +8,38 @@ header, #main {
     text-align: center;
 }
 
+h1 {
+    color: white;
+}
+
+a {
+    color: aquamarine;
+}
+
+h4 {
+    font-size: 1.3125rem;
+    color: gray;
+}
+
 /*Header*/
 
 header h1 {
-    color: white;
     font-size: 3.125rem;
 }
 
-header a {
-    color: aquamarine;
+/*Main*/
 
+#main h1 {
+    font-size: 2.625rem;
+    font-weight: 300;
+}
+
+.phone {
+    margin-top: 1rem;
+}
+
+/*Footer*/
+
+footer {
+    text-align: right;
 }
